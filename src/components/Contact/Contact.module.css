@@ -1,0 +1,42 @@
+/* Contact.module.css */
+/* .contact {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact .name {
+  font-weight: bold;
+}
+
+.contact .delete-btn {
+  background-color: #ef8636;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 8px;
+}
+ */
+.box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.button {
+  font-size: 16px;
+  font-weight: bold;
+  width: 80px;
+  border: 1px solid rgb(4, 3, 3);
+  border-radius: 4px;
+  background: orange;
+}

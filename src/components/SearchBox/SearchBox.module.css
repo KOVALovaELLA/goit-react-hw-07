@@ -1,0 +1,12 @@
+.label {
+  margin-top: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.input {
+  width: 335px;
+  margin-bottom: 30px;
+  border: 1.5px solid black;
+  height: 30px;
+}
